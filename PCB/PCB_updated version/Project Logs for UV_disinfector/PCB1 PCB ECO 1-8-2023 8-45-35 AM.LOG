@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+5 Pin=LS1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=LS1-2
+Change Component Footprint: Designator=LS1 Old Footprint=FP-PKB24SPCH3601-B0-MFG New Footprint=FP-SDC1610M5-01-MFG
+Change Component Comment : Designator=LS1 Old Comment=PKB24SPCH3601-B0 New Comment=SDC1610M5-01
+Change Managed Component Library Link : Designator=LS1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5ADFA9D7-0724-494A-BBC1-B2D7FAEE8A1E New ItemGUID=1AE768BB-E972-4E2D-97A1-B757308B6705 Old RevisionGUID=29BC3B5F-B595-41A3-A787-5D0E55307B47 New RevisionGUID=E5B5225C-0335-4AD2-A62B-8931C8BB6689
+Change component parameters: Designator = "LS1" ("LS1"); Footprint = "FP-PKB24SPCH3601-B0-MFG"; UniqueID = "\KZNNVJFG" ("\KZNNVJFG")
+Change component parameters (AddParameter): Name = "Diameter"; Value = "16mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2.4kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Current"; Value = "30mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-10°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminals/Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "30mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensing Method"; Value = "Magnetic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "PC Pins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=LS1-1
+Added Pin To Net: NetName=+5 Pin=LS1-2
+Added Room: Name=UV_Sheet1

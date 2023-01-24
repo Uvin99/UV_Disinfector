@@ -1,0 +1,13 @@
+Change Component Comment : Designator=9 Old Comment=C315C220K1G5TA New Comment=22pF
+Change Component Comment : Designator=12 Old Comment=C315C220K1G5TA New Comment=22pF
+Change Component Comment : Designator=Y1 Old Comment=FOXSLF/080-20 New Comment=16MHz Crystal
+Change Component Comment : Designator=10 Old Comment=MFR-25FBF52-100K New Comment=1k
+Change Component Comment : Designator=5 Old Comment=MFR-25FBF52-100K New Comment=10K
+Change Component Comment : Designator=6 Old Comment=MFR-25FBF52-100K New Comment=10K
+Change Component Comment : Designator=7 Old Comment=MFR-25FBF52-100K New Comment=10k
+Change Component Comment : Designator=2 Old Comment=MFR-25FBF52-100K New Comment=220R
+Change Component Comment : Designator=11 Old Comment=MFR-25FBF52-100K New Comment=220R
+Change Component Comment : Designator=R1 Old Comment=MFR-25FBF52-100K New Comment=220R
+Change Component Comment : Designator=R2 Old Comment=MFR-25FBF52-100K New Comment=220R
+Change Component Comment : Designator=R3 Old Comment=MFR-25FBF52-100K New Comment=220R
+Added Room: Name=UV_Sheet1
